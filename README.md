@@ -3,7 +3,9 @@
 
 Practical Data Science Specialization - AWS
 
-1. Analyze Datasets and Train ML Models using AutoML
+## Course 1 - Analyze Datasets and Train ML Models using AutoML
+
+1. Analyze Datasets and Train ML Models using AutoML (Week1)
 - List and access the Women's Clothing Reviews dataset files hosted in an S3 bucket
 - Install and import AWS Data Wrangler
 - Create an AWS Glue Catalog database and list all Glue Catalog databases
@@ -11,3 +13,10 @@ Practical Data Science Specialization - AWS
 - Write SQL queries to answer specific questions on your dataset and run your queries with Amazon Athena
 - Return the query results in a pandas dataframe
 - Produce and select different plots and visualizations that address your questions
+
+2. Detect data bias with Amazon SageMaker Clarify (Week2)
+- Download and save raw unbalanced dataset
+- Analyze bias with open source Clarify
+- Balance the dataset
+- Analyze bias at scale with a Amazon SageMaker processing job and Clarify
+- Analyze bias reports before and after balancing the dataset
