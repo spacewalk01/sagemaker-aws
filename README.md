@@ -20,3 +20,13 @@ Practical Data Science Specialization - AWS
 - Balance the dataset
 - Analyze bias at scale with a Amazon SageMaker processing job and Clarify
 - Analyze bias reports before and after balancing the dataset
+
+3. Train a model with Amazon SageMaker Autopilot (Week3)
+- Dataset review 
+- Configure the Autopilot job
+- Launch Autopilot job
+- Track Autopilot job progress
+- Feature engineering
+- Model training and tuning
+- Review all output
+- Deploy and test best candidate model
