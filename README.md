@@ -32,4 +32,4 @@ Practical Data Science Specialization - AWS
 - Deploy and test best candidate model
 
 ### Data
-https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews?select=Womens+Clothing+E-Commerce+Reviews.csv
+[Women's E-Commerce Clothing Reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews?select=Womens+Clothing+E-Commerce+Reviews.csv)
