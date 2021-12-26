@@ -1,7 +1,4 @@
-# sagemaker-aws
-
-
-Practical Data Science Specialization - AWS
+# Practical Data Science Specialization - AWS
 
 ## Analyze Datasets and Train ML Models using AutoML
 
