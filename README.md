@@ -3,13 +3,13 @@
 
 Practical Data Science Specialization - AWS
 
-## Course 1 - Analyze Datasets and Train ML Models using AutoML
+## Analyze Datasets and Train ML Models using AutoML
 
-1. Analyze Datasets and Train ML Models using AutoML (Week1)
+1. Explore the Use Case and Analyze the Dataset in S3 on AWS
 
-2. Detect data bias with Amazon SageMaker Clarify (Week2)
+2. Detect data bias with Amazon SageMaker Clarify
 
-3. Train a model with Amazon SageMaker Autopilot (Week3)
+3. Train a model with Amazon SageMaker Autopilot
 
 
 ### Data
